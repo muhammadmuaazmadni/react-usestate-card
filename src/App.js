@@ -23,7 +23,7 @@ return (
      {isLit }
     <br />
     <p onClick={() => setLit(!isLit)}>
-      <img src="https://images-na.ssl-images-amazon.com/images/I/71vyKbDPH0L.png" height="25px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Perspective-Button-Stop-icon.png" height="25px" />
     </p>
   
 
